@@ -21,7 +21,7 @@ public class Practice1 {
     public void p1_1_1() {
         //a.
         System.out.println((0 + 15) / 2);
-        ª
+
         //b.
         StdOut.println(2.0e-6 * 100000000.1);
 
